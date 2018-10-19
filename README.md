@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 19, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Nyshia Baker)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Computes a user’s total living expenses for a given month and displays the percentage of the total expenses spent for each category (food, shelter, etc.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://nyshiabaker.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The document.getElementById() method accesses the first element in the HTML document with the specified id.  
+2. The parseFloat() method is used to convert a String to a Float.
+3. The innerHTML property used with the document.getElementById() sets or returns the HTML content (inner HTML) of an element.
 
 
 
